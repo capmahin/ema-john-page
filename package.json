@@ -1,7 +1,6 @@
 {
   "name": "ema-john-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -16,5 +15,15 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "mongodb": "^4.5.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capmahin/ema-john-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/capmahin/ema-john-page/issues"
+  },
+  "homepage": "https://github.com/capmahin/ema-john-page#readme",
+  "description": ""
 }
